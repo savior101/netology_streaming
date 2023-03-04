@@ -1,0 +1,10 @@
+ru/netology/dsw/TestUtils.java
+ ru.netology.dsw.TestUtils
+ru/netology/dsw/processor/ProductJoinerAppTest.java
+ ru.netology.dsw.processor.ProductJoinerAppTest
+ru/netology/dsw/dsl/QuantityAlertsAppTest.java
+ ru.netology.dsw.dsl.QuantityAlertsAppTest
+ru/netology/dsw/processor/QuantityAlertsAppTest.java
+ ru.netology.dsw.processor.QuantityAlertsAppTest
+ru/netology/dsw/dsl/ProductJoinerAppTest.java
+ ru.netology.dsw.dsl.ProductJoinerAppTest

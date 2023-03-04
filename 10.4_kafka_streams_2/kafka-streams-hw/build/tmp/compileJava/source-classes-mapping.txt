@@ -1,0 +1,7 @@
+ru/netology/dsw/dsl/SumAlertsApp.java
+ ru.netology.dsw.dsl.SumAlertsApp
+ ru.netology.dsw.dsl.SumAlertsApp$1
+ru/netology/dsw/dsl/ProductJoinerApp.java
+ ru.netology.dsw.dsl.ProductJoinerApp
+ ru.netology.dsw.dsl.ProductJoinerApp$1
+ ru.netology.dsw.dsl.ProductJoinerApp$JoinResult
